@@ -2,3 +2,6 @@
 its my first repositry into git world
 
 Its amazed thing to start stuff into git
+
+
+hi today is thursday 
